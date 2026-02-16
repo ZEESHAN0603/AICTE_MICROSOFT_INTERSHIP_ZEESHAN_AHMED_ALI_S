@@ -1,4 +1,4 @@
-**🔥 AI Generated Image Detection System**
+**🔥 Image Detection System**
 
 
 Python · PyTorch · Computer Vision · AICTE
